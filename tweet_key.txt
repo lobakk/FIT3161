@@ -1,0 +1,14 @@
+Tweet API key
+5etHstBqMcYpIDESsQPvvhyJO
+
+API key secret
+cgsmFFYBHPZX7QqeauuwQQgdLgM2RvLnMbvDyJoHYCuOEKo0Gd
+
+Bearer token
+AAAAAAAAAAAAAAAAAAAAANJQXwEAAAAA09JdZNXuboi2CxvHwYp8AlyBYTQ%3DTgdYgq7lM4ytxjNMAv5PcyXEWkdRifNRkOkTwf2nUEIEmnL21x
+
+Access key
+1472638099490439170-yIq47dBq8EcUuO44msP5CuggeeZBml
+
+Access token secret
+swIQSmcUdqZ8XYlzrvnF08IBuzamva5W6b8dUDuXAFxkT
